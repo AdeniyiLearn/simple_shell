@@ -1,6 +1,13 @@
-Write a simple UNIX command interpreter.
-System programming project
+SIMPLE SHELL PROJECT
 
-A simple shell
+This project is abour writing a simple UNIX command interpreter.
 
-The project is done using C language
+It is also System programming project.
+
+The project explores the following:
+
+	1. Basics of programming
+	2. Basics of C
+	3. Basics of thinking like an engineer
+	4. Group work
+	5. Learning how to learn
